@@ -27,4 +27,14 @@
     <servlet-name>TableServlet</servlet-name>
     <url-pattern>/table</url-pattern>
   </servlet-mapping>
+  <servlet>
+    <description></description>
+    <display-name>JoinServlet</display-name>
+    <servlet-name>JoinServlet</servlet-name>
+    <servlet-class>kr.co.itcen.controller.JoinServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>JoinServlet</servlet-name>
+    <url-pattern>/join</url-pattern>
+  </servlet-mapping>
 </web-app>

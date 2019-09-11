@@ -18,6 +18,9 @@
 	<br/>
 	<br/>
 	<a href='/helloweb/table?c=20&r=30'>테이블 보기(servlet)</a>
+	<br/>
+	<br/>
+	<a href='/helloweb/form.jsp'>폼 보기(form)</a>
 
 </body>
 </html>
